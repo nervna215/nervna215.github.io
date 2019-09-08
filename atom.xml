@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nervna215.github.io/blog</id>
+    <id>https://nervna215.github.io</id>
     <title>Gridea</title>
-    <updated>2019-09-08T13:10:46.071Z</updated>
+    <updated>2019-09-08T13:42:38.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nervna215.github.io/blog"/>
-    <link rel="self" href="https://nervna215.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://nervna215.github.io"/>
+    <link rel="self" href="https://nervna215.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://nervna215.github.io/blog/images/avatar.png</logo>
-    <icon>https://nervna215.github.io/blog/favicon.ico</icon>
+    <logo>https://nervna215.github.io/images/avatar.png</logo>
+    <icon>https://nervna215.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[nervna]]></title>
-        <id>https://nervna215.github.io/blog/post/Qzzz-iKJT</id>
-        <link href="https://nervna215.github.io/blog/post/Qzzz-iKJT">
+        <id>https://nervna215.github.io/post/Qzzz-iKJT</id>
+        <link href="https://nervna215.github.io/post/Qzzz-iKJT">
         </link>
         <updated>2019-09-08T12:31:57.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://nervna215.github.io/blog/post/about</id>
-        <link href="https://nervna215.github.io/blog/post/about">
+        <id>https://nervna215.github.io/post/about</id>
+        <link href="https://nervna215.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nervna215.github.io/blog/post/hello-gridea</id>
-        <link href="https://nervna215.github.io/blog/post/hello-gridea">
+        <id>https://nervna215.github.io/post/hello-gridea</id>
+        <link href="https://nervna215.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
